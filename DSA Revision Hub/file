@@ -1,1 +1,102 @@
+# 🚀 DSA Revision Hub
+
+A simple and powerful web-based tool to **track, organize, and revise Data Structures & Algorithms (DSA) problems** efficiently.
+
+---
+
+## 📌 Overview
+
+While solving DSA problems, I realized that **revision is more important than just solving**.  
+So, I built this project to maintain a structured system where I can:
+
+- Store problems I’ve solved
+- Save my approach and intuition
+- Keep track of difficulty levels
+- Quickly revisit code during revision
+
+---
+
+## ✨ Features
+
+- ➕ Add new DSA problems
+- 🧠 Store approach / explanation for each problem
+- 🏷️ Tag problems by difficulty:
+  - Easy
+  - Medium
+  - Hard
+- 💻 Save code for future reference
+- 🔍 Easy revision of previously solved problems
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📷 Screenshots
+
+*(Add your project screenshots here)*
+
+---
+
+## 🚀 How to Use
+
+1. Open the website
+2. Add a new problem
+3. Enter:
+   - Problem name
+   - Approach
+   - Difficulty
+   - Code
+4. Save it for future revision
+
+---
+
+## 💡 Why This Project?
+
+Most people focus on solving problems, but **revision is the key to mastering DSA**.
+
+This project helps in:
+- Structured learning
+- Better retention
+- Faster interview preparation
+
+---
+
+## 🔗 Live Demo
+
+*(Add your deployed link here if available)*
+
+---
+
+## 📁 GitHub Repository
+
+*(This repo itself)*
+
+---
+
+## 🔮 Future Improvements
+
+- Search functionality 🔍
+- Edit/Delete problems ✏️
+- Filter by difficulty 📊
+- User authentication 🔐
+- Dark mode 🌙
+
+---
+
+## 🙌 Conclusion
+
+This project is part of my journey to become better at problem-solving and software development.  
+More improvements coming soon!
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to contribute!
 
